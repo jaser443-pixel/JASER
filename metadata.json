@@ -1,0 +1,5 @@
+{
+  "name": "Saudi Ozone - Employee Evaluation",
+  "description": "An application for managing employee evaluations at Saudi Ozone Company. It allows adding employees, recording daily and monthly evaluations, viewing employee profiles with historical data, and generating monthly statistical reports.",
+  "requestFramePermissions": []
+}
